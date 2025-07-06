@@ -2,7 +2,7 @@ import React from "react";
 
 
 import React_DOM from "react-dom";
-import Searchbar from "./components/searchbar";
+import Searchbar from "./components/Searchbar";
 import Searchbutton from './components/searchbutton'
 import Weather_Display from "./components/Weather_Display";
 import Bottom_bar from "./components/Bottom_bar";
